@@ -1,0 +1,3 @@
+C:/Users/artem/CLionProjects/263A/cmake-build-debug/CMakeFiles/263A.dir
+C:/Users/artem/CLionProjects/263A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/artem/CLionProjects/263A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
