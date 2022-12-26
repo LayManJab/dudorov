@@ -4,7 +4,8 @@
 
 int main() {
 
-    int n, sum=0;
+    int n;
+    bool flag = false;
     std::vector <std::string> vec;
     std::string a;
     std::cin >> n;
@@ -16,11 +17,11 @@ int main() {
 
     for(int i=0; i<n; i++){
         if(vec[i] == vec[i+1] and vec[i+1] == vec[i+2]){
-            sum++;
+            flag=true;
         }
     }
 
-    if(sum > 0){
+    if(flag){
         std::cout << "YES";
     }
     else{
